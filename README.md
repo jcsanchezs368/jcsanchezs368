@@ -1,5 +1,5 @@
 # Hola, bienvenido a mi repositorio.
-#### No se que poner
+Desarrollo de Aplicaciones Multiplataforma
 
 Copyright (c) 2025 Juan Carlos Sánchez
 Todos los derechos reservados
