@@ -1,5 +1,5 @@
 # Hola, bienvenido a mi repositorio.
-<a href = "https://sites.google.com/site/seciesalonso/"><img style="float:right" src="https://github.com/jcsanchezs368/jcsanchezs368/blob/main/ercilla.jpg?raw=true" alt="logo ercilla"></a>
+<a style="float:right" href = "https://sites.google.com/site/seciesalonso/"><img  src="https://github.com/jcsanchezs368/jcsanchezs368/blob/main/ercilla.jpg?raw=true" alt="logo ercilla"></a>
 Desarrollo de Aplicaciones Multiplataforma
 
 Copyright (c) 2025 Juan Carlos Sánchez
